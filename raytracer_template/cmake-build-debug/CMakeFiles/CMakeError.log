@@ -1,0 +1,81 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_1052f/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_1052f.dir\build.make CMakeFiles/cmTC_1052f.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1052f.dir/CheckIncludeFile.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_1052f.dir\CheckIncludeFile.c.obj   -c "C:\Users\emery\Desktop\Master IMAGINA 1\Modelisation et conception 3D\Ray Tracing Emery Bourget-Vecchio IMAGINA\raytracer_template\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Users\emery\Desktop\Master IMAGINA 1\Modelisation et conception 3D\Ray Tracing Emery Bourget-Vecchio IMAGINA\raytracer_template\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c:1:21: fatal error: pthread.h: No such file or directory
+ #include <pthread.h>
+                     ^
+compilation terminated.
+CMakeFiles\cmTC_1052f.dir\build.make:84: recipe for target 'CMakeFiles/cmTC_1052f.dir/CheckIncludeFile.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_1052f.dir/CheckIncludeFile.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:140: recipe for target 'cmTC_1052f/fast' failed
+mingw32-make.exe: *** [cmTC_1052f/fast] Error 2
+
+
+
+Determining if the include file dinput.h exists failed with the following output:
+Change Dir: C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_5b013/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_5b013.dir\build.make CMakeFiles/cmTC_5b013.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5b013.dir/CheckIncludeFile.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_5b013.dir\CheckIncludeFile.c.obj   -c "C:\Users\emery\Desktop\Master IMAGINA 1\Modelisation et conception 3D\Ray Tracing Emery Bourget-Vecchio IMAGINA\raytracer_template\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Users\emery\Desktop\Master IMAGINA 1\Modelisation et conception 3D\Ray Tracing Emery Bourget-Vecchio IMAGINA\raytracer_template\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c:1:20: fatal error: dinput.h: No such file or directory
+ #include <dinput.h>
+                    ^
+compilation terminated.
+CMakeFiles\cmTC_5b013.dir\build.make:84: recipe for target 'CMakeFiles/cmTC_5b013.dir/CheckIncludeFile.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_5b013.dir/CheckIncludeFile.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:140: recipe for target 'cmTC_5b013/fast' failed
+mingw32-make.exe: *** [cmTC_5b013/fast] Error 2
+
+
+
+Determining if the include file xinput.h exists failed with the following output:
+Change Dir: C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_94759/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_94759.dir\build.make CMakeFiles/cmTC_94759.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_94759.dir/CheckIncludeFile.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_94759.dir\CheckIncludeFile.c.obj   -c "C:\Users\emery\Desktop\Master IMAGINA 1\Modelisation et conception 3D\Ray Tracing Emery Bourget-Vecchio IMAGINA\raytracer_template\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Users\emery\Desktop\Master IMAGINA 1\Modelisation et conception 3D\Ray Tracing Emery Bourget-Vecchio IMAGINA\raytracer_template\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c:1:20: fatal error: xinput.h: No such file or directory
+ #include <xinput.h>
+                    ^
+compilation terminated.
+CMakeFiles\cmTC_94759.dir\build.make:84: recipe for target 'CMakeFiles/cmTC_94759.dir/CheckIncludeFile.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_94759.dir/CheckIncludeFile.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:140: recipe for target 'cmTC_94759/fast' failed
+mingw32-make.exe: *** [cmTC_94759/fast] Error 2
+
+
+
+Performing C SOURCE FILE Test _GLFW_HAS_64ASLR failed with the following output:
+Change Dir: C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_1a6d9/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_1a6d9.dir\build.make CMakeFiles/cmTC_1a6d9.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1a6d9.dir/src.c.obj
+C:\MinGW\bin\gcc.exe   -D_GLFW_HAS_64ASLR -Wl,--high-entropy-va   -o CMakeFiles\cmTC_1a6d9.dir\src.c.obj   -c "C:\Users\emery\Desktop\Master IMAGINA 1\Modelisation et conception 3D\Ray Tracing Emery Bourget-Vecchio IMAGINA\raytracer_template\cmake-build-debug\CMakeFiles\CMakeTmp\src.c"
+Linking C executable cmTC_1a6d9.exe
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_1a6d9.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_1a6d9.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_1a6d9.dir/objects.a @CMakeFiles\cmTC_1a6d9.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe  -D_GLFW_HAS_64ASLR -Wl,--high-entropy-va    -Wl,--whole-archive CMakeFiles\cmTC_1a6d9.dir/objects.a -Wl,--no-whole-archive  -o cmTC_1a6d9.exe -Wl,--out-implib,libcmTC_1a6d9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_1a6d9.dir\linklibs.rsp
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: unrecognized option '--high-entropy-va'
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: use the --help option for usage information
+collect2.exe: error: ld returned 1 exit status
+CMakeFiles\cmTC_1a6d9.dir\build.make:107: recipe for target 'cmTC_1a6d9.exe' failed
+mingw32-make.exe[1]: *** [cmTC_1a6d9.exe] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:140: recipe for target 'cmTC_1a6d9/fast' failed
+mingw32-make.exe: *** [cmTC_1a6d9/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }

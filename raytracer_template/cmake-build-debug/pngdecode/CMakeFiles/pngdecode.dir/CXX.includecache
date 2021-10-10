@@ -1,0 +1,102 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/png.cpp
+./png.h
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/png.h
+stdlib.h
+-
+stdexcept
+-
+limits.h
+-
+string.h
+-
+stdio.h
+-
+errno.h
+-
+
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/png.h
+
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/pngdec.cpp
+./pngdec.h
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/pngdec.h
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/pngdec.h
+./png.h
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/png.h
+./zdec.h
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/zdec.h
+stdio.h
+-
+
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/pngenc.cpp
+pngenc.h
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/pngenc.h
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+string.h
+-
+
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/pngenc.h
+./png.h
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/png.h
+./zenc.h
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/zenc.h
+
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/zdec.cpp
+./zdec.h
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/zdec.h
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/zdec.h
+./zss.h
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/zss.h
+
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/zenc.cpp
+./zenc.h
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/zenc.h
+stdlib.h
+-
+limits.h
+-
+string.h
+-
+
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/zenc.h
+./zss.h
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/zss.h
+
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/zss.cpp
+stdlib.h
+-
+./zss.h
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/zss.h
+string.h
+-
+limits.h
+-
+stdio.h
+-
+
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/Ray Tracing Emery Bourget-Vecchio IMAGINA/raytracer_template/pngdecode/zss.h
+
